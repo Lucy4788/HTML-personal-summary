@@ -1,5 +1,5 @@
 <h1>HTML Personal Summary </h1>
-<p><u>Please note</u>: this site is currently not support mobile/tablet platform </p>
+<p><u>Please note</u>: this site is currently not support mobile/tablet platform. It works best on laptopn screen for now. Sorry for the inconvenience! </p>
 
 <h2>Project goals: </h2>
 <p>This project was one of my very first webpages created as parts of my self-taught coding course on freecodingcamp.com. <br>
